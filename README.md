@@ -29,6 +29,7 @@ Our vision is to bridge the gap between the complexity of Web3 and the simplicit
 *   **Smart Contracts:** [Cadence](https://developers.flow.com/cadence)
 *   **Authentication:** [Web3Auth](https://web3auth.io)
 *   **AI Art Generation:** [Stability AI](https://stability.ai)
+*   **Deployed on Testnet:** [https://testnet.flowscan.io/contract/A.3fe32988f9457b01.USDC](https://testnet.flowscan.io/contract/A.3fe32988f9457b01.USDC)
 
 ## 🛠️ Getting Started
 
